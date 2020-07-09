@@ -1,3 +1,7 @@
+**Ignore this, this is installation information for downloading the devkit, it doesn't really mean much now that i have the resources installed.**
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
