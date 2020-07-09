@@ -1,0 +1,13 @@
+{
+  "ItemGroup.tutorialTAB": "rubies",
+
+  "block.rubies.ruby_block" : "ruby_block",
+  "block.rubies.ruby_ore" : "ruby_ore",
+
+  "item.rubies.ruby" : "ruby",
+  "item.rubies.ruby_sword" : "ruby_sword",
+  "item.rubies.ruby_pickaxe" : "ruby_pickaxe",
+  "item.rubies.ruby_axe" : "ruby_axe",
+  "item.rubies.ruby_shovel" : "ruby_shovel",
+  "item.rubies.ruby_hoe" : "ruby_hoe"
+}
