@@ -1,4 +1,6 @@
 **Ignore this, this is installation information for downloading the devkit, it doesn't really mean much now that i have the resources installed.**
+
+This project was made using a tutorial from TechnoVision, so kudos to him, his tutorial is amazing: https://www.youtube.com/playlist?list=PLDhiRTZ_vnoUI3-9z0Zg-I8tTSp3EfOia
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
